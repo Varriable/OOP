@@ -1,1 +1,1 @@
-Each Folder is a differnt project done using Intelli J Idea
+Each Folder is a different project done using Intelli J Idea
